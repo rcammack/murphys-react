@@ -19,7 +19,7 @@ class TopMenu extends React.Component {
                 <Dropdown.Item>empty</Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
-            <Menu.Item>St. Patrick's Day</Menu.Item>
+            <Menu.Item>St. Patricks Day</Menu.Item>
             <Dropdown item text="Menus">
               <Dropdown.Menu>
                 <Dropdown.Item>empty</Dropdown.Item>
